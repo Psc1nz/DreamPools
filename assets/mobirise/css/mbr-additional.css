@@ -1176,11 +1176,11 @@ section.lazy-placeholder:after {
 .cid-rOaws4rXQU .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #8264fd;
+  background: #7ccbf1;
 }
 .cid-rOaws4rXQU .navbar.opened {
   transition: all .3s;
-  background: #8264fd !important;
+  background: #7ccbf1 !important;
 }
 .cid-rOaws4rXQU .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1282,7 +1282,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rOaws4rXQU .navbar.navbar-short {
-  background: #8264fd !important;
+  background: #7ccbf1 !important;
   min-height: 60px;
 }
 .cid-rOaws4rXQU .navbar.navbar-short .navbar-logo img {
@@ -1323,7 +1323,7 @@ section.lazy-placeholder:after {
   padding: 0.667em 1.667em;
 }
 .cid-rOaws4rXQU .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #8264fd;
+  background: #7ccbf1;
 }
 .cid-rOaws4rXQU .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
